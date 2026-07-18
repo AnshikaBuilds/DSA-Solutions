@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/AnshikaBuilds/DSA-Solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AnshikaBuilds/DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/AnshikaBuilds/DSA-Solutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/AnshikaBuilds/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnshikaBuilds/DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AnshikaBuilds/DSA-Solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/AnshikaBuilds/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 ## String
 |  |
 | ------- |
@@ -30,4 +32,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/AnshikaBuilds/DSA-Solutions/tree/master/0041-first-missing-positive) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/AnshikaBuilds/DSA-Solutions/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/AnshikaBuilds/DSA-Solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/AnshikaBuilds/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
