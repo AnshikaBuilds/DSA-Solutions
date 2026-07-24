@@ -55,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/AnshikaBuilds/DSA-Solutions/tree/master/0039-combination-sum) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AnshikaBuilds/DSA-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AnshikaBuilds/DSA-Solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
