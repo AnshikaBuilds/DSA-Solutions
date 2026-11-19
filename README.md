@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AnshikaBuilds/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/AnshikaBuilds/DSA-Solutions/tree/master/0066-plus-one) |
 | [0724-find-pivot-index](https://github.com/AnshikaBuilds/DSA-Solutions/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/AnshikaBuilds/DSA-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,4 +80,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/AnshikaBuilds/DSA-Solutions/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/AnshikaBuilds/DSA-Solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
