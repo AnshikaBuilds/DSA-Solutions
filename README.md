@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/AnshikaBuilds/DSA-Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/AnshikaBuilds/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/AnshikaBuilds/DSA-Solutions/tree/master/0066-plus-one) |
+| [0724-find-pivot-index](https://github.com/AnshikaBuilds/DSA-Solutions/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/AnshikaBuilds/DSA-Solutions/tree/master/0066-plus-one) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/AnshikaBuilds/DSA-Solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
